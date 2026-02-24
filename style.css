@@ -309,3 +309,13 @@ button:hover {
 		font-size: 13px;
 	}
 }
+.video-section {
+    margin-bottom: 40px;
+}
+.section-title {
+    font-size: 20px;
+    font-weight: 600;
+    color: #030303;
+    margin-bottom: 16px;
+    padding-left: 16px;
+}
