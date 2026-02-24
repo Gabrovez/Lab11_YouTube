@@ -295,7 +295,7 @@ button:hover {
 		height: 36px;
 	}
 
-	.video-grid {
+	.video-card {
 		grid-template-columns: 1fr;
 	}
 
